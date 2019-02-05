@@ -1,4 +1,4 @@
-extend default class Order extends React.Component {
+export default class Order extends React.Component {
 
   render() {
     return (
